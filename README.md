@@ -1,2 +1,2 @@
-# MT7981
-src/gz custom_feeds https://cdn.jsdelivr.net/gh/tiancaiV/MT7981/MT3000
+
+src/gz custom_feeds https://cdn.jsdelivr.net/gh/tiancaiV/gl-inet/MT3000
